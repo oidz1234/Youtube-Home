@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+     font-family: monospace;
+     background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+.peng {
+    margin-left: auto;
+}
+
+.monster {
+    margin-right: auto;
+}
+
+.me {
+    background-image: url('https://avatars.githubusercontent.com/u/24897633?s=400&u=cdb1699e00947b5b1caa3a42703608ad3c67aba1&v=4');
+    height: 400px;
+    width: 400px;
+
+}
+.me:hover {
+    background-image: url('https://cdn.7tv.app/emote/60ae958e229664e8667aea38/4x.avif')
+
+}
+
+
+.list {
+
+    /* sets radius of all 4 corners */
+
+/* top-left top-right bottom-right bottom-left */
+}
